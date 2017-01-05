@@ -1,4 +1,5 @@
 Section A
+====================================================================================================================================
 
 Introduction to Computers and programming
 
@@ -20,12 +21,14 @@ part we can actually touch.The software is the part of a computer that we can no
 The software is formed pr is made using the programming languages the i hav ementioned above.
 
 Hardware
+=========
 
 Hardware consists of the physical components of a computer system, which include peripheral equipment – equipment outside of the
 tower case – such as printers, modems, scanners, monitors, keyboards and mouse devices. The 3 essential peripherals include the
 monitor (output), keyboard and mouse (input). Hardware is broken up into four categories: input, output, storage and processing.
 
 Software
+==========
 
 There are 2 types of software: The Operating System (OS), and Application Software. The OS on these machines is Microsoft Windows.
 We will look at Windows later in the notes. Application Software consists of programs or sets of instructions that cause the computer 
@@ -43,65 +46,360 @@ is the monitor, the monitor works as the interaction point between the computer 
 is the keyboard;it allows us to put inputs into the computer.We are going to learn a bit more about the Keyboard.
 
 Keyboard
+=========
 
-Caps Lock Key 
+Caps Lock Key
+=============
 The caps lock key activates a feature that affects only the letter keys. Pressing on the caps lock button causes all letter 
 keys to type in uppercase. All other keys will act the same as if caps lock is off. To deactivate caps lock, press the caps lock
 key again. 
 
-Shift Key 
+Shift Key
+==========
 The shift key is used in combination with a second key. The shift key is used primarily to capitalize letters.
 Shift differs from caps lock because you have to hold the shift key down while simultaneously pressing another key to 
 capitalize a letter, where you only press the caps lock key once. Holding down the shift key also is used to type the characters
 and symbols above the numbers on the number keys. 
 
 Tab Key
+========
+
 The tab key is used to move from one position on the screen to another. It also creates a “tab stop” (right 1/2 inch)
 indentation for your paragraphs. This is very similar to a typewriter. 
  
 Enter Key
+===========
+
 When working with text (words), pressing on the enter key moves the cursor down to the next line. Otherwise,
 pressing the enter key will activate anything that you have selected. 
  
-Escape Key 
+Escape Key
+===========
+
 The escape key is used to cancel the current operation or can be used to exit a program.
 
 Spacebar
+==========
+
 Pressing the space bar while the cursor is positioned within text will cause a space (one character wide) to be placed
 at the position of the cursor.
 
-Control Key 
+Control Key
+============
+
 The control key (Ctrl) is usually used with another key. Holding the control key in addition to another key or keys will
 start a function. Later on, we will teach you some control key functions that deal with word processing. 
 
 Alt Key 
+========
 The alternate key (Alt), similar to the control key, and is used in combination with other keys.
 
 Arrow Keys
+===========
+
 The four arrow keys are located on several keys to the right of the spacebar at the bottom of the keyboard.
 Pressing one of these keys will cause some type of screen movement in the direction of the arrow on the key.
 These keys are frequently used when correcting mistakes in documents and allow users to “go back” and fix mistakes
 instead of erasing all of the work since the mistake was made. 
 
-Backspace Key 
+Backspace Key
+=============
+
 Pressing the backspace key while the cursor is positioned within text will delete the character (or space) immediately to 
 the left of the cursor. 
 
 Delete Key
+===========
+
 Pressing the delete key while the cursor is positioned within text will delete the character (or space) immediately to the right
 of the cursor.
 
 The mouse
+============
+
 Another component of the computer is the mouse the mouse allows us to move the mouse from point A to B.It also allows us to select 
 thing buy clicking on the item.Clicking just means presssing the button on the mouse.Lets look into detail of how a mouse works.
 
 Using a mouse
+==============
 
 1.	Let your hand rest comfortably on top of the mouse. Most people are righthanded and therefore, the mouse is usually on the
 right side of the computer. All left-handed folks don’t have to worry because millions of “lefties” use computers. Some lefthanded
 people simply move the mouse over to their left side of the computer and use it there. Others use their right hand and soon become 
 ambidextrous! It’s most important to remember to “do what’s most comfortable for you!” For teaching purposes, we will now continue using
 the right hand terminology.
+
+2.	Fit the palm of your hand around the mouse, with your index finger resting on the left (the primary) mouse button and your
+middle finger resting on the right (the secondary) mouse button. Let the heel of your hand rest on the desk or table.
+
+3.	As you move the mouse, the mouse pointer (the cursor on the screen) will move in the same direction as your hand.
+
+That about effort about the hardware of a computer, let now move to the software part of the computer.We are going to use a windows 7
+operating system but they are other operating systems such as linux and also Mac OS.In this section we are going to cover only windows
+operating system.
+
+Operating system
+===================
+
+An operating system allows the hardware and the software to communicate. It also provides a platform from which to run programs
+and manage our documents and files that we save. Windows has been specially designed to allow us to run more than one program at
+a time. This is called multi-tasking. Each space that a program occupies on the screen is called a Window. We can actually view more
+than one open program on our screens by resizing these Windows. Alternatively, we can simply go from one open program to another by 
+selecting the program on the taskbar – the bar at the bottom of the screen.
+
+The desktop
+============
+When you have logged on to the computer, you will see a number of small pictures, called icons, on the screen in front of you. 
+When the screen looks like this, it is called the “Desktop”. Let’s look at a couple of these icons. They are shortcuts to other 
+items.
+
+My computer
+============
+
+Close, Restore, Maximize and Minimize Buttons In the top right-hand corner you will see the Close, Restore and Minimize buttons. 
+This is common to every program you will be using. Maximise: To make the window fill the whole screen, click on . Restore: To make
+the window smaller again, click on . Minimise: To make the window disappear without closing it – it will still be available in the
+taskbar – click on . To undo this, click on the button “My Computer” in your taskbar. Close: To close the window, one would click on 
+. (Do not close this window now!)
+
+Resizing windows
+It is also possible to resize windows by clicking and dragging. Let’s take a look. By positioning the cursor over the edge of
+the “My Computer” window, a double arrow appears. Click down on the mouse button, holding it down, and move your mouse. You will 
+notice that you are dragging the edge of the window. Release the mouse button when you are happy with the size of the window. 
+You can click and drag one of the sides of a window, or a corner of a window. 
+
+Moving windows
+Windows can be moved by clicking and dragging on the title bar of the window. The title bar is the blue bar at the top of the window
+that tells us what the window is called and what it is for.
+
+Start menu
+To use the start menu to open programs:
+1. Point and click the mouse pointer at the button at the lower left corner of the Windows desktop 
+(the screen that appears when you first start up your computer). 
+
+This activates a pop-up menu. 
+2. Slide the mouse pointer up the menu to Programs. The menu selection will be highlighted in blue and a sub-menu will be activated.
+3. Slide the mouse pointer straight to the right onto the sub-menu.
+4. Slide the pointer straight up or down to highlight the program group that you would like to use and then click on the program you want to open
+
+Turning ON a computer
+On a desktop computer, there will be a button to turn on the computer. Similarly, there will usually be a button on the monitor to 
+turn on the monitor. These buttons are usually on the front of the computer and the monitor. The computer goes through a number of
+internal tasks when starting up. It may take a few minutes for it to complete these tasks. Patience, as you will learn, is used a 
+lot when working with a computer. After the computer stops making what almost sounds like a grinding noise (this is normal – it’s 
+the hard drive being accessed) and the picture on the screen stops changing, it is probably ready for you to use! Turning a computer
+off takes more practice. You should follow the procedure below that allows the computer to properly store files. Avoid unplugging 
+the computer or holding down the power button, unless the computer freezes.
+
+1. Click on the start button at the bottom left of the screen. 
+2. From the start menu choose Shut down. 
+3. In the dialog box that opens, select Shut down (if it isn't already pre-selected). 
+4. Click on the OK button. 
+5. Wait until the monitor turns black and the computer is no longer making a humming noise. Lastly, turn off the computer monitor by pressing the power button on the
+
+
+=======================================================================================================================================
+ 
+ Section B
+ ===========
+ 
+ In this section we are going to learn about programming and also the internet and how it works.But first most of you are wondering how 
+ programming will benefit you in terms of the career path way.I think l can safely safe that progranning is the only field where you can 
+ two part ways to a career.l will explain what i mean by that,you can be a doctor and also an programmer/developer.You can also be an
+ engineer while you are programmer.So to me thats so awesome hey.It means you can increase your chances of getting a job.l will just
+ name a few careers you can take with python programming language,but i want you to go ahead and research more about it at your own time
+  
+  http://prezi.com/o0flzhokvuko/?utm_campaign=share&utm_medium=copy&rc=ex0share 
+  
+  here is one link you can follow for programming careers.
+  
+  Moving on right along,we are going to learn about one of the most fasinating platforms wish is the command prompt.LEt open it and see how it
+  looks like.Here is how you can open your command prompt.
+  
+1.	Go to the start menu
+2.	Click on all programs
+3.	Click on accessories
+4.	Click on Command prompt
+
+A little black box should pop up on the window.This black screen is called the command prompt and usually it is 
+used by programmers to write instructions to the computer.The interesting part is that i always see that blck screen on movies,
+which is so cool according to me at least.The command prompt always make me happy.l feel like i am on top on the world.AWESOMENESS, will
+be our middle name, just kidding,moving on right along.
+
+=================================================================================
+Most of the stuff to follow was from the djangogirls tutorial: Thank Djangogirls
+=================================================================================
+
+What is the command line?
+The window, which is usually called the command line or command-line interface, is a
+text-based application for viewing, handling, and manipulating files on your computer. Much
+like Windows Explorer or Finder on Mac, but without the graphical interface. Other names for
+the command line are: cmd, CLI, prompt, console or terminal
+
+First command
+
+> whoami
+
+And then hit enter . This is our result:
+
+Basics
+Each operating system has a slightly different set of commands for the command line, so
+make sure to follow instructions for your operating system. Let's try this, shall we?
+
+Current directory
+It'd be nice to know where are we now, right? Let's see. Type this command and hit enter :
+
+If you're on Windows:
+> cd
+C:\Users\olasitarska
+You'll probably see something similar on your machine. Once you open the command line
+you usually start at your user's home directory.
+Note: 'pwd' stands for 'print working directory'.
+List files and directories
+So what's in it? It'd be cool to find out. Let's see:
+
+Windows:
+> dir
+Directory of C:\Users\olasitarska
+05/08/2014 07:28 PM <DIR> Applications
+05/08/2014 07:28 PM <DIR> Desktop
+05/08/2014 07:28 PM <DIR> Downloads
+05/08/2014 07:28 PM <DIR> Music
+...
+Change current directory
+Now, let's go to our Desktop directory:
+
+Windows:
+> cd Desktop
+Windows:
+> cd
+C:\Users\olasitarska\Desktop
+Here it is!
+PRO tip: if you type cd D and then hit tab on your keyboard, the command line will
+automatically autofill the rest of the name so you can navigate faster. If there is more
+than one folder starting with "D", hit the tab button twice to get a list of options.
+Create directory
+How about creating a practice directory on your desktop? You can do it this way:
+
+Windows:
+> mkdir practice
+This little command will create a folder with the name practice on your desktop. You can
+check if it's there just by looking on your Desktop or by running a ls or dir command! Try
+
+it :)
+PRO tip: If you don't want to type the same commands over and over, try pressing the
+up arrow and down arrow on your keyboard to cycle through recently used
+commands.
+
+Exercise!
+Small challenge for you: in your newly created practice directory create a directory called
+test . Use cd and mkdir commands.
+
+Windows:
+> cd practice
+> mkdir test
+> dir
+05/08/2014 07:28 PM <DIR> test
+Congrats! :)
+
+Clean up
+We don't want to leave a mess, so let's remove everything we did until that point.
+First, we need to get back to Desktop:
+
+Windows:
+> cd ..
+Using .. with the cd command will change your current directory to the parent directory
+(this is the directory that contains your current directory).
+Check where you are:
+
+
+Windows:
+> cd
+C:\Users\olasitarska\Desktop
+Now time to delete the practice directory:
+Attention: Deleting files using del , rmdir or rm is irrecoverable, meaning deleted
+files will be gone forever! So, be very careful with this command.
+
+Windows:
+> rmdir /S practice
+practice, Are you sure <Y/N>? Y
+Done! To be sure it's actually deleted, let's check it:
+
+Windows:
+> dir
+
+Exit
+
+That's it for now! You can safely close the command line now. Let's do it the hacker way,
+alright?:)
+
+Windows:
+> exit
+Cool, huh?:)
+
+I really think that this is so so cool.You now know a few commands in the command prompt.But there is still more to come
+Don't try to memories the commands at once just like you did you multiplication table NO.Just refer to the commands when you need them
+you will realise that you will get to a point where you don't refer anymore.So don't be too scared.Anywhere moving on right along....
+
+Introduction to programming
+
+LEt me introduce you to the programming language that we are going to learn.Don't be scare of the word python.It was just a name given
+to the programming language by the person who started it.Itz a crazy name tho isn't it,but you will get used to the word.
+
+=================================================================================================================================
+MOst of our python language sythax comes from one of our generous friends in USA "Kinsley Harrison" and we are using his stuff to 
+learn the python sythax.So don't forget to say thank you.If you can you can also support him through donations.Thank you so much 
+Harrison. www.pythonprogramming.net
+=================================================================================================================================
+
+Python 3 Programming Introduction Tutorial (We’ll be using the tutorial off of Python’s website) 
+Chances are, if you're viewing this page, you're brand new to Python.
+You might even be new to Programming all-together. Either way, you have come to the right place, and chosen the right language!
+
+Why Python?
+Python is very beginner-friendly. The syntax (words and structure) is extremely simple to read and follow, most of which can be
+understood even if you do not know any programming. Let me show you:
+Garage = "Ferrari", "Honda", "Porsche", "Toyota"
+	  
+for each_car in Garage:
+	print(each_car)
+	  
+"print()" is a built-in Python function that will output some text to the console.
+When someone says to "print to the console," they are referring to where information from your program is ouput. This might be a 
+command prompt (CMD.exe), the terminal for Mac/Linux users, or the interactive prompt in IDLE. You will see an example of "output 
+to console" below.
+
+Looking at the code about cars in the garage, can you guess what will happen? You probably have a general idea. For each_car in the
+garage, we're going to do something. What are we doing? We are printing each car.
+Since "printing" outputs some text to the "console," you can probably figure out that the console will say something like 
+"Ferrari, Honda, Porsche, Toyota."
+
+What can Python do?
+
+Python is a fully-functional programming language that can do anything almost any other language can do, at comprable speeds.
+
+Python is capable of threading and GPU processing just like any other language. Most of the data processing modules are actually
+just Python wrappers around C/C++ code.
+
+"Modules" are pre-written Python code that you "import" in your Python program. Since there are many tasks that people commonly do,
+we have modules that people have written that do these taks for you, and they usually do them in the cleanest and most efficient
+method possible. Sometimes you will see people refer to "DRY." This stands for Don't Repeat Yourself, which often also translates
+into "Don't Repeat Someone Else."
+
+The phrase "wrapper" means that someone has placed, like a wrapper, Python code over another language. So, when you have a Python 
+wrapper around C++ code, what someone has done is written some Python code that interacts with the C++ language. This allows you to
+make use of various aspects of the language being wrapped, in this case C++, without actually needing to know or understand that
+language.
+
+Thus, Python can be used to make games, do data analysis, control robot and hardware, create GUIs, or even to create websites.
+"GUI" stands for Graphical User Interface, and is used to describe a program that incorporates graphics to make the program more 
+interactive for the user.
+
+
+===================================================================THE END==============================================================
+
+
+
 
 
 
