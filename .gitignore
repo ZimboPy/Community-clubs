@@ -1,0 +1,4 @@
+*.py[cod]
+
+# IDE files
+.idea/
