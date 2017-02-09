@@ -1,0 +1,99 @@
+.. _errors:
+    
+=======
+ERRORS
+======
+
+errors are a nightmare to every programmer.
+Most of the time, the problem is a typo, followed closely by
+a misunderstanding of indentation and standards.
+|
+|
+Standards
+---------
+Standard is how organized your code is. With python,
+unlike most languages, you define blocks of code like
+functions by indentation. Most python editors will automatically
+indent for you where it is necessary. With this, if you are ever
+coding along and find python automatically indenting you where
+you don't think it should, this should raise a flag for you to
+figure out.
+|
+|
+NameError
+---------
+There are some more in-depth common-issues that you'll
+find from time to time.For now I will just
+keep these ones basic.
+The first error we'll discuss is the ``NameError:`` is not defined
+|
+|
+As obvious as this might appear to you, this gets people amazingly. 
+Just learn to recognize the``is not defined``
+chances are you typoed the definition of the variable or when you
+are referring to it. 
+
+.. code-block:: python
+        variable = 55
+        print(varaible)
+        
+the ``print`` is correct but we have typoed a name ``variable``
+|
+|
+Indentation error
+-----------------
+Another error that always get people is the indentation issues.
+You will see ``expected an indented block`` as a
+popup when you never enter an indented block for
+something that requires it, like a function.
+
+
+.. code-block:: python
+        def task1():
+        def task2():
+            print('more tasks')
+
+The two function are not separated as you can see.The should be an 
+indentation of four spaces between the two functions ``def task1():``
+and ``def task2():``
+|
+|
+|
+With that code you will get the ``unexpected indent`` error and you
+can correct it using the following code.
+.. code-block:: python
+        def task1():
+            print('task')
+        def task2():
+            print('more tasks')
+            
+The following code also gives you an error as well.Indentation can be
+at times be very boring to correct.
+
+.. code-block:: python
+        def task():
+            print ('stuff')
+            
+        print('more stuff')
+
+            print('stuff')
+
+
+
+EOL while scanning string literal
+---------------------------------
+This usually happens when you do not close off the backets and quotes.
+
+.. code-block:: python
+        def task():
+            print('some people find themselves committing this too
+
+
+            print('ouch...')
+                  
+                                    
+The  best way to solve errors is to know the name of the error,
+this makes it very easy to solve the error.The errors i have meontioned 
+above are one of the most common errors, that you will face in your 
+programming journey.Everytime you run your code expect to get an error.
+                  
