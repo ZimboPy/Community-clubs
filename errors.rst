@@ -20,8 +20,8 @@ you don't think it should, this should raise a flag for you to
 figure out.
 
 
-NameError
----------
+NameError that are common
+--------------------------
 There are some more in-depth common-issues that you'll
 find from time to time.For now I will just
 keep these ones basic.
