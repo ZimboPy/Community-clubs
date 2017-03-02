@@ -1,8 +1,8 @@
-..variables:
+.. _variableGandL:
 
-===============
-Variables
-===============
+==========================
+Variables global and local
+==========================
 
 Variables are very useful in python programming.A variable in simple terms is a any name the your choice that you 
 store data inside.In python we use the  ``=``  to assign data to a variable.There are two types of data and these 
