@@ -25,8 +25,8 @@ The command below shows how we basically import.An explanation below shows the m
 any of the functions within it.
 this loads that entire module, and will run any code that is
 set to run in the module
-remember ``if name == main`` Again, that's what we use to stop code
-from running when we just want to import.*
+remember* ``if name == main`` *Again, that's what we use to stop code
+from running when we just want to import*.
 
 .. code-block:: python
 
