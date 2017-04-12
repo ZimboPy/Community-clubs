@@ -11,7 +11,7 @@ functionality.
 
 
 
-*lets justchanged name to simple math, to better describe our intentions*
+*lets just changed name to simple math, to better describe our intentions*
 
 
 Now we've specified 2 parameters for our function, calling them num1
