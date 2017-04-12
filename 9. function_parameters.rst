@@ -46,7 +46,7 @@ You can protect yourself from order by doing the following in your calling:
 
 
 ``simple_addition(num1=3,num2=5)``
-or more clearly #
+or more clearly 
 ``simple_addition(num2=3,num1=5)``
 
 In this case, if you are clear in your specification, it does not matter
